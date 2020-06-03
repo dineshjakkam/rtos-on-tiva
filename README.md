@@ -1,5 +1,5 @@
 # rtos-on-tiva
-Real time operating system from scratch on TI board (_**academice project**_)
+Real time operating system from scratch on TI board (_**academic project**_)
 
 ## Overview:
 This is an academic project. The goal of this project is to write a simple RTOS for an M4F controller that implements a selectable cooperative or preemptive RTOS with support for semaphores, yielding, and system timers. 
